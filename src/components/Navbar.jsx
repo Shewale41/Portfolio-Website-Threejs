@@ -33,11 +33,21 @@ const Navbar = () => {
                   ? "text-white"
                   : "text-secondary"
               } hover:text-white text-[18px] font-medium cursor-pointer`}
+              onClick={() => setActive(link.title)}
             >
               <a href={`#${link.id}`}>{link.title}</a>
             </li>
           ))}
         </ul>
+
+        <div classname="sm:hidden flex flex-1 justify-end items-center">
+          <img 
+          src={menu}
+          alt="menu"
+          className="w-[28px] h-[28px] object-contain cursor-pointer"
+          onClick={() => setToggle(!toggle)}
+          />
+        </div>
       </div>
     </nav>
   )
