@@ -6,7 +6,6 @@ import CanvasLoader from '../Loader';
 
 const Computers = () => {
   const computer = useGLTF('./desktop_pc/scene.gltf')
-
   return (
     <mesh>
       <hemisphereLight intensity={0.15} groundColor="black" />
@@ -33,7 +32,7 @@ const ComputersCanvas = () => {
       frameLoop="demand"
       shadows
       camera={{ position: [20, 3, 5], fov: 25 }}
-      gl = {{preserveDrawingBuffer: true }}
+      gl = {{ preserveDrawingBuffer: true }}
     >
       <Suspense fallback={<CanvasLoader />}>
         <OrbitControls 
