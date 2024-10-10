@@ -8,9 +8,9 @@ import { experiences } from '../constants';
 import { SectionWrapper } from '../hoc';
 import { textVariant } from '../utils/motion';
 
-const ExperienceCard = ({ experience }) => {
+const ExperienceCard = ({ experience }) => (
   <VerticalTimelineElement
-    contentStyle={{ background: '1d1836', color: '#fff'}}
+    contentStyle={{ background: '#1d1836', color: '#fff'}}
     contentArrowStyle={{ borderRight: '7px solid #232631'}}
     date={experience.date}
     iconStyle={{ background: experience.iconBg}}
@@ -24,9 +24,11 @@ const ExperienceCard = ({ experience }) => {
       </div>
     }
   >
-    {experience.date}
+    <div>
+      <h3 className="text-white text-[24px] font-bold">{experience.title}</h3>
+    </div>
   </VerticalTimelineElement>
-}
+)
 
 const Experience = () => {
   return (
