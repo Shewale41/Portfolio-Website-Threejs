@@ -26,6 +26,7 @@ const ExperienceCard = ({ experience }) => (
   >
     <div>
       <h3 className="text-white text-[24px] font-bold">{experience.title}</h3>
+      <p>{experience.company_name}</p>
     </div>
   </VerticalTimelineElement>
 )
