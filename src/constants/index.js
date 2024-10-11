@@ -1,12 +1,12 @@
-import {
-    mobile,
+import { // Change the values of the balls in index.js in the constants folder an search up: const technologies
+    mobile, 
     backend,
     creator,
     web,
-    javascript,
+    javascript, // make sure to import your constants for the balls like here
     typescript,
     html,
-    css,
+    css, 
     reactjs,
     redux,
     tailwind,

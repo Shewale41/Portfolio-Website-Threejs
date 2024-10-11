@@ -5,7 +5,7 @@ import {
 } from '@react-three/drei'
 
 import CanvasLoader from '../Loader';
-// Change the values of the balls in index.js an search up: const technologies
+// Change the values of the balls in index.js in the constants folder an search up: const technologies
 const Ball = (props) => {
   const [decal] = useTexture([props.imgUrl]);
 
