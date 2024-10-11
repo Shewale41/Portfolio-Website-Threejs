@@ -4,7 +4,7 @@ import { // Change the values of the balls in index.js in the constants folder a
     creator,
     web,
     javascript, // make sure to import your constants for the balls like here
-    typescript,
+    typescript, // Remember they are from ../assets so see if they exist there 
     html,
     css, 
     reactjs,
@@ -23,7 +23,7 @@ import { // Change the values of the balls in index.js in the constants folder a
     jobit,
     tripguide,
     threejs,
-  } from "../assets";
+  } from "../assets"; // Remember they are from ../assets so see if they exist there 
   
   export const navLinks = [
     {
