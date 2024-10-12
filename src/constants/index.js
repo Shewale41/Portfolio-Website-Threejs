@@ -118,8 +118,8 @@ import { // Change the values of the balls in index.js in the constants folder a
     {
       title: "Software Development Engineer Intern",
       company_name: "Styl. AI",
-      icon: "../constants/stylai.png",
-      iconBg: "#383E56",
+      icon: "./src/constants/stylapp.png",
+      iconBg: "#E6DEDD",
       date: "Aug 2024 - Present",
       points: [
         "Developing a seamless onboarding process for improved company integration.",
@@ -131,7 +131,7 @@ import { // Change the values of the balls in index.js in the constants folder a
       title: "Cybersecurity Intern",
       company_name: "New Jersey Cybersecurity and Communications Integration Cell",
       icon: "https://www.njohsp.gov/home/showpublishedimage/904/638338783965370000",
-      iconBg: "#E6DEDD",
+      iconBg: "#383E56",
       date: "Jul 2024 - Aug 2024",
       points: [
         "Spearheaded the development of educational materials for online cybersecurity awareness applications used by 2,500+ schools K-12 across New Jersey.",
@@ -142,8 +142,8 @@ import { // Change the values of the balls in index.js in the constants folder a
     {
       title: "Founder and Leader",
       company_name: "Bridgewater-Raritan High School Hackathon",
-      icon: shopify,
-      iconBg: "#383E56",
+      icon: "./src/constants/BRHacks2023.png",
+      iconBg: "#E6DEDD",
       date: "Jan 2023 - Oct 2023",
       points: [
         "Secured $6,000 in funding through grants and partnerships with Qualcomm, MLH, Women in STEM, Wolfram Alpha, Mathnasium, Code Ninjas, Eye Level, Gold’s Gym, and 20+ local businesses.",
@@ -155,8 +155,8 @@ import { // Change the values of the balls in index.js in the constants folder a
     {
       title: "AI and Business Intern Lead",
       company_name: "Jetson AI",
-      icon: meta,
-      iconBg: "#E6DEDD",
+      icon: "https://static.wixstatic.com/media/14885d_35c17b6084264a46b9951565fa1cedd7~mv2.png/v1/fill/w_330,h_330,al_c/14885d_35c17b6084264a46b9951565fa1cedd7~mv2.png",
+      iconBg: "#383E56",
       date: "Mar 2023 - Aug 2023",
       points: [
         "#1 Ranked Intern Spring and Summer Cohort, #1 Ranked Pitch Deck for Future Jetson Feature.",
