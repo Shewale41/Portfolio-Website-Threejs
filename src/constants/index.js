@@ -121,6 +121,7 @@ import { // Change the values of the balls in index.js in the constants folder a
       icon: "./src/constants/StylApp2024.png",
       iconBg: "#E6DEDD",
       date: "Aug 2024 - Present",
+      url: "",
       points: [
         "Developing a seamless onboarding process for improved company integration.",
         "Manipulating image pixels with OpenPose, YOLO, SSD, to isolate clothing from humans and backgrounds.",
@@ -133,6 +134,7 @@ import { // Change the values of the balls in index.js in the constants folder a
       icon: "https://www.njohsp.gov/home/showpublishedimage/904/638338783965370000",
       iconBg: "#383E56",
       date: "Jul 2024 - Aug 2024",
+      url: "https://2023-br-hacks-website.vercel.app/",
       points: [
         "Spearheaded the development of educational materials for online cybersecurity awareness applications used by 2,500+ schools K-12 across New Jersey.",
         "Conducted in-depth research focusing on emerging cybersecurity threats and best practices including social engineering, phishing, and cryptography.",
@@ -145,6 +147,7 @@ import { // Change the values of the balls in index.js in the constants folder a
       icon: "./src/constants/BRHacks2023.png",
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Oct 2023",
+      url: "",
       points: [
         "Secured $6,000 in funding through grants and partnerships with Qualcomm, MLH, Women in STEM, Wolfram Alpha, Mathnasium, Code Ninjas, Eye Level, Gold’s Gym, and 20+ local businesses.",
         "Organized a successful event with 200+ attendees and established an annual educational community event.",
@@ -158,6 +161,7 @@ import { // Change the values of the balls in index.js in the constants folder a
       icon: "https://static.wixstatic.com/media/14885d_35c17b6084264a46b9951565fa1cedd7~mv2.png/v1/fill/w_330,h_330,al_c/14885d_35c17b6084264a46b9951565fa1cedd7~mv2.png",
       iconBg: "#383E56",
       date: "Mar 2023 - Aug 2023",
+      url: "",
       points: [
         "#1 Ranked Intern Spring and Summer Cohort, #1 Ranked Pitch Deck for Future Jetson Feature.",
         "Collaborated with C-Level Executives on 30+ market research interviews to gain strategic insights.",
@@ -240,7 +244,7 @@ import { // Change the values of the balls in index.js in the constants folder a
     {
       name: "Rising Tides",
       description:
-        "Focuses on implementing core algorithms and data structures to simulate real-world tide level analysis. It involves creating efficient solutions for data storage, retrieval, and manipulation, using structures such as arrays, linked lists, stacks, queues, and trees. The goal is to build a system that can analyze tide patterns efficiently, integrating concepts like time complexity and memory management to optimize performance to then predict tide changes.",
+        "Rising Tides focuses on implementing core algorithms and data structures to simulate real-world tide level analysis. It involves creating efficient solutions for data storage, retrieval, and manipulation, using structures such as arrays, linked lists, stacks, queues, and trees. The goal is to build a system that can analyze tide patterns efficiently, integrating concepts like time complexity and memory management to optimize performance to then predict tide changes.",
       tags: [
         {
           name: "DataStructures",

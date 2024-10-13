@@ -39,11 +39,14 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn("", "", 0.1, 1)} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+      Motivated and results-driven Computer Science student at Purdue University, 
+      with a focus on Cybersecurity and Artificial Intelligence. Experienced in 
+      innovative problem-solving and building technical solutions across various 
+      domains. Proficient in Python, Java, AWS, and Git. Interned at Styl. App AI 
+      and NJ's Cybersecurity Cell, developing cutting-edge technologies and 
+      securing digital infrastructures. Passionate about driving impact, I founded 
+      the BRHS Hackathon, securing $6,000+ in sponsorships and empowering youth 
+      through STEM workshops. Seeking opportunities to collaborate, contribute, and grow.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
