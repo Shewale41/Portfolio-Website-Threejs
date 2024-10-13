@@ -118,7 +118,7 @@ import { // Change the values of the balls in index.js in the constants folder a
     {
       title: "Software Engineer Intern",
       company_name: "Styl. AI",
-      icon: "./src/assets/AppStyl.png",
+      icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_YlPOOOIMsvMXihQNh0EOVY1fU53B_EG9A&s",
       iconBg: "#E6DEDD",
       date: "Aug 2024 - Present",
       url: "",
@@ -144,7 +144,7 @@ import { // Change the values of the balls in index.js in the constants folder a
     {
       title: "Founder and Leader",
       company_name: "Bridgewater-Raritan High School Hackathon",
-      icon: "./src/assets/BRHacks2023Logo.png",
+      icon: "https://cmsv2-assets.apptegy.net/uploads/25792/logo/28605/Lettermark2.png",
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Oct 2023",
       url: "",
@@ -217,8 +217,8 @@ import { // Change the values of the balls in index.js in the constants folder a
           color: "pink-text-gradient",
         },
       ],
-      image: "./src/assets/BRHacks2023Landing.png",
-      source_code_link: "https://github.com/ethanw2457/2023BRHacksWebsite",
+      image: "https://tapinto-production.s3.amazonaws.com/uploads/events/cp/facebook_cp-brhacks.jpeg",
+      source_code_link: "https://2023-br-hacks-website.vercel.app/",
     },
     {
       name: "Club Hub",
@@ -238,7 +238,7 @@ import { // Change the values of the balls in index.js in the constants folder a
           color: "pink-text-gradient",
         },
       ],
-      image: "./src/assets/ClubHub2024.jpg",
+      image: "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/872/201/datas/gallery.jpg",
       source_code_link: "https://ethanw2457.github.io/Club-Hub/landing.html",
     },
     {
