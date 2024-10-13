@@ -144,7 +144,7 @@ import { // Change the values of the balls in index.js in the constants folder a
     {
       title: "Founder and Leader",
       company_name: "Bridgewater-Raritan High School Hackathon",
-      icon: "./src/assets/BRHacks2023.png",
+      icon: "./src/assets/BRHacks2023Logo.png",
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Oct 2023",
       url: "",
@@ -217,7 +217,7 @@ import { // Change the values of the balls in index.js in the constants folder a
           color: "pink-text-gradient",
         },
       ],
-      image: "./src/constants/BRHacksLandingPage.png",
+      image: "./src/assets/BRHacks2023Landing.png",
       source_code_link: "https://github.com/ethanw2457/2023BRHacksWebsite",
     },
     {
@@ -238,7 +238,7 @@ import { // Change the values of the balls in index.js in the constants folder a
           color: "pink-text-gradient",
         },
       ],
-      image: "./src/constants/ClubHub.jpg",
+      image: "./src/assets/ClubHub2024.jpg",
       source_code_link: "https://ethanw2457.github.io/Club-Hub/landing.html",
     },
     {
