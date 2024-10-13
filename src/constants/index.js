@@ -118,7 +118,7 @@ import { // Change the values of the balls in index.js in the constants folder a
     {
       title: "Software Development Engineer Intern",
       company_name: "Styl. AI",
-      icon: "./src/constants/stylapp.png",
+      icon: "./src/constants/StylApp2024.png",
       iconBg: "#E6DEDD",
       date: "Aug 2024 - Present",
       points: [
@@ -196,67 +196,67 @@ import { // Change the values of the balls in index.js in the constants folder a
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "BRHacks 2023 Website",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "The 2023 Bridgewater Raritan High School Hackathon website prioritized user experience with features like parallax web designs, acted as a 24/7 beacon of information, and facilitated registration of 200+ attendees. Workshops involved topics like AI, engineering, and DSA, and collaboration with 20+ clubs. The Hackathon secured $6,000 in funding and became the biggest 2023 high school hackathon in New Jersey.",
       tags: [
         {
-          name: "react",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Parallax",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Javascript",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: "./src/constants/BRHacksLandingPage.png",
+      source_code_link: "https://github.com/ethanw2457/2023BRHacksWebsite",
     },
     {
-      name: "Job IT",
+      name: "Club Hub",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Club Central is a platform that connects students with clubs, allowing organizers to create profiles, promote events, and attract members. All the while, users can take advantage of green activities like the carpooling system using Google Maps API for event routes, playing fun ice breaker games made with Unity to connect with new people, and store reputation data and profile pictures in Firebase.",
       tags: [
         {
-          name: "react",
+          name: "Javascript",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "GoogleMapsAPI",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Firebase",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: "./src/constants/ClubHub.jpg",
+      source_code_link: "https://ethanw2457.github.io/Club-Hub/landing.html",
     },
     {
-      name: "Trip Guide",
+      name: "Rising Tides",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Focuses on implementing core algorithms and data structures to simulate real-world tide level analysis. It involves creating efficient solutions for data storage, retrieval, and manipulation, using structures such as arrays, linked lists, stacks, queues, and trees. The goal is to build a system that can analyze tide patterns efficiently, integrating concepts like time complexity and memory management to optimize performance to then predict tide changes.",
       tags: [
         {
-          name: "nextjs",
+          name: "DataStructures",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Java",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "GUI",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSTgg6uhXQspTRjCrD-wZWas2JhHpQU5laA&s",
+      source_code_link: "https://github.com/ethanw2457/RisingTides",
     },
   ];
   
