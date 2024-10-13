@@ -118,7 +118,7 @@ import { // Change the values of the balls in index.js in the constants folder a
     {
       title: "Software Engineer Intern",
       company_name: "Styl. AI",
-      icon: "./src/constants/StylApp2024.png",
+      icon: "./src/assets/AppStyl.png",
       iconBg: "#E6DEDD",
       date: "Aug 2024 - Present",
       url: "",
@@ -144,7 +144,7 @@ import { // Change the values of the balls in index.js in the constants folder a
     {
       title: "Founder and Leader",
       company_name: "Bridgewater-Raritan High School Hackathon",
-      icon: "./src/constants/BRHacks2023.png",
+      icon: "./src/assets/BRHacks2023.png",
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Oct 2023",
       url: "",
