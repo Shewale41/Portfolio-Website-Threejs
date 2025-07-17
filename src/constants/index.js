@@ -116,7 +116,7 @@ import { // Change the values of the balls in index.js in the constants folder a
   
   const experiences = [
     {
-      title: "Software Engineer Intern",
+      title: "Software Engineer Intern", 
       company_name: "Styl. AI",
       icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_YlPOOOIMsvMXihQNh0EOVY1fU53B_EG9A&s",
       iconBg: "#E6DEDD",

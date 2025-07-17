@@ -27,16 +27,16 @@ const Contact = () => {
     setLoading(true);
 
     emailjs.send(
-      'service_m2sqmqq', 
-      'template_kc2tpxi',
+      'service_jjera79', 
+      'template_hgaezfl',
       {
         from_name: form.name,
-        to_name: 'Adrian',
+        to_name: 'Gopal',
         from_email: form.email,
-        to_email: 'ethan.w2457@gmail.com',
+        to_email: 'shewalegopal4119@gmail.com',
         message: form.message,
       },
-      'p0Obc3NZ5XnQk8TfD'
+      '5rXPtGu5WcpTk_4i5'
       )
       .then(() => {
         setLoading(false);
@@ -52,7 +52,7 @@ const Contact = () => {
 
         console.log(error);
 
-        alert('Something went wrong.')
+        alert('Oh no!! Something went wrong.')
       })
   }
 
