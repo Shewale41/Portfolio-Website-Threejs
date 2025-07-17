@@ -46,15 +46,15 @@ import { // Change the values of the balls in index.js in the constants folder a
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "AI Systems Engineer",
       icon: mobile,
     },
     {
-      title: "Security Architect",
+      title: "BlockChain Explorer",
       icon: backend,
     },
     {
-      title: "Cloud Engineer",
+      title: "Open Source Contributor",
       icon: creator,
     },
   ];
@@ -200,20 +200,20 @@ import { // Change the values of the balls in index.js in the constants folder a
   
   const projects = [
     {
-      name: "BRHacks 2023 Website",
+      name: "Let Him Resume",
       description:
-        "The 2023 Bridgewater Raritan High School Hackathon website prioritized user experience with features like parallax web designs, acted as a 24/7 beacon of information, and facilitated registration of 200+ attendees. Workshops involved topics like AI, engineering, and DSA, and collaboration with 20+ clubs. The Hackathon secured $6,000 in funding and became the biggest 2023 high school hackathon in New Jersey.",
+        "The 2025 AI Resume Builder redefined career readiness through a sleek platform powered by React, Tailwind CSS, Clerk, Strapi, and PostgreSQL. With seamless auth, real-time CMS, and AI-driven customization, it enabled 300+ users to craft professional-grade resumes and visualize their skills dynamically. Its scalable architecture, intuitive UX, and smart integrations set a new benchmark for student-built career tech.",
       tags: [
         {
           name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "Parallax",
+          name: "Strapi",
           color: "green-text-gradient",
         },
         {
-          name: "Javascript",
+          name: "Gemini",
           color: "pink-text-gradient",
         },
       ],
@@ -221,20 +221,20 @@ import { // Change the values of the balls in index.js in the constants folder a
       source_code_link: "https://2023-br-hacks-website.vercel.app/",
     },
     {
-      name: "Club Hub",
+      name: "ChainFund",
       description:
-        "Club Central is a platform that connects students with clubs, allowing organizers to create profiles, promote events, and attract members. All the while, users can take advantage of green activities like the carpooling system using Google Maps API for event routes, playing fun ice breaker games made with Unity to connect with new people, and store reputation data and profile pictures in Firebase.",
+        "A decentralized crowdfunding platform reshaped fundraising by combining React, Tailwind CSS, Solidity smart contracts, MetaMask, Ethereum, and PostgreSQL. With wallet-based authentication and transparent campaign logic, it empowered users to launch, track, and support initiatives without intermediaries. The intuitive UI, real-time transaction flow, and scalable backend demonstrated how trustless systems can revolutionize modern fundraising.",
       tags: [
         {
-          name: "Javascript",
+          name: "Ethereum",
           color: "blue-text-gradient",
         },
         {
-          name: "GoogleMapsAPI",
+          name: "SoliditySmartContracts",
           color: "green-text-gradient",
         },
         {
-          name: "Firebase",
+          name: "MetaMaskAuth",
           color: "pink-text-gradient",
         },
       ],

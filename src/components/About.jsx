@@ -39,14 +39,7 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn("", "", 0.1, 1)} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-      Motivated and results-driven Computer Science student at Purdue University, 
-      with a focus on Cybersecurity and Artificial Intelligence. Experienced in 
-      innovative problem-solving and building technical solutions across various 
-      domains. Proficient in Python, Java, AWS, and Git. Interned at Styl. App AI 
-      and NJ's Cybersecurity Cell, developing cutting-edge technologies and 
-      securing digital infrastructures. Passionate about driving impact, I founded 
-      the BRHS Hackathon, securing $6,000+ in sponsorships and empowering youth 
-      through STEM workshops. Seeking opportunities to collaborate, contribute, and grow.
+      Creative and impact-driven developer with a passion for intelligent systems and modern web experiences. With hands-on expertise in React, Tailwind CSS, Express.js, Java, and Spring Boot, I build scalable interfaces and backend logic that bring ideas to life. My work spans AI agent development, blockchain experimentation, and community-driven open-source contributions.Whether it's fine-tuning UI layouts or resolving tricky peer dependencies, I approach challenges with precision and an eye for elegance. I believe in tech that not only works—but feels good to use. Currently exploring deeper integrations in cloud and automation, while giving back through public repos and shared learning.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
