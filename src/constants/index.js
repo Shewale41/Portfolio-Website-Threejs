@@ -242,20 +242,20 @@ import { // Change the values of the balls in index.js in the constants folder a
       source_code_link: "https://ethanw2457.github.io/Club-Hub/landing.html",
     },
     {
-      name: "Rising Tides",
+      name: "VibeCall ",
       description:
-        "Rising Tides focuses on implementing core algorithms and data structures to simulate real-world tide level analysis. It involves creating efficient solutions for data storage, retrieval, and manipulation, using structures such as arrays, linked lists, stacks, queues, and trees. The goal is to build a system that can analyze tide patterns efficiently, integrating concepts like time complexity and memory management to optimize performance to then predict tide changes.",
+        "VibeCall is a real-time video communication platform built with React and styled using Tailwind CSS, leveraging ZEGOCLOUD’s powerful API for seamless audio and video streaming. The project focuses on delivering low-latency, high-quality video calls through efficient state management, responsive UI design, and real-time event handling. It integrates WebRTC principles via ZEGOCLOUD, ensuring smooth media transmission, while emphasizing component-based architecture and performance optimization in a scalable React environment.",
       tags: [
         {
-          name: "DataStructures",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "Java",
+          name: "ZegoCloud",
           color: "green-text-gradient",
         },
         {
-          name: "GUI",
+          name: "Tailwind",
           color: "pink-text-gradient",
         },
       ],
