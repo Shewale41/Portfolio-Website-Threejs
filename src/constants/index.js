@@ -24,7 +24,8 @@ import { // Change the values of the balls in index.js in the constants folder a
     tripguide,
     threejs,
   } from "../assets"; // Remember they are from ../assets so see if they exist there 
-  
+  import { logo224, vibecall, resumeBuilder } from '../assets';
+
   export const navLinks = [
     {
       id: "about",
@@ -216,7 +217,7 @@ import { // Change the values of the balls in index.js in the constants folder a
           color: "pink-text-gradient",
         },
       ],
-      image: "https://i.imghippo.com/files/fSNo5020Ing.jpg",
+      image: resumeBuilder ,
       source_code_link: "https://lethimresume.vercel.app/",
     },
     {
@@ -237,7 +238,7 @@ import { // Change the values of the balls in index.js in the constants folder a
           color: "pink-text-gradient",
         },
       ],
-      image: "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/872/201/datas/gallery.jpg",
+      image: logo224 ,
       // source_code_link: "https://ethanw2457.github.io/Club-Hub/landing.html",
     },
     {
@@ -259,7 +260,7 @@ import { // Change the values of the balls in index.js in the constants folder a
           color: "pink-text-gradient",
         },
       ],
-      image: "https://video-call-seven-kappa.vercel.app",
+      image: vibecall ,
       source_code_link: "https://video-call-seven-kappa.vercel.app",
     },
   ];
