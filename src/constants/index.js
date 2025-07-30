@@ -115,87 +115,86 @@ import { // Change the values of the balls in index.js in the constants folder a
   ];
   
   const experiences = [
-    {
-      title: "Software Engineer Intern", 
-      company_name: "Styl. AI",
-      icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_YlPOOOIMsvMXihQNh0EOVY1fU53B_EG9A&s",
-      iconBg: "#E6DEDD",
-      date: "Aug 2024 - Present",
-      url: "",
-      points: [
-        "Developing a seamless onboarding process for improved company integration.",
-        "Manipulating image pixels with OpenPose, YOLO, SSD, to isolate clothing from humans and backgrounds.",
-        "Designing an interactive user experience for virtual clothing try-ons.",
-      ],
-    },
+    // {
+    //   title: "Software Engineer Intern", 
+    //   company_name: "Styl. AI",
+    //   icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_YlPOOOIMsvMXihQNh0EOVY1fU53B_EG9A&s",
+    //   iconBg: "#E6DEDD",
+    //   date: "Aug 2024 - Present",
+    //   url: "",
+    //   points: [
+    //     "Developing a seamless onboarding process for improved company integration.",
+    //     "Manipulating image pixels with OpenPose, YOLO, SSD, to isolate clothing from humans and backgrounds.",
+    //     "Designing an interactive user experience for virtual clothing try-ons.",
+    //   ],
+    // },
     {
       title: "Cybersecurity Intern",
-      company_name: "New Jersey Cybersecurity and Communications Integration Cell",
-      icon: "https://www.njohsp.gov/home/showpublishedimage/904/638338783965370000",
+      company_name: "CDAC-Centre for Development of Advanced Computing",
+      icon: "https://th.bing.com/th/id/OIP._a7Dp2GGqulHLZC8MeqEhQHaFO?w=259&h=183&c=7&r=0&o=7&pid=1.7&rm=3",
       iconBg: "#383E56",
-      date: "Jul 2024 - Aug 2024",
+      date: "Jul 2025 - Present ",
       url: "https://2023-br-hacks-website.vercel.app/",
       points: [
-        "Spearheaded the development of educational materials for online cybersecurity awareness applications used by 2,500+ schools K-12 across New Jersey.",
-        "Conducted in-depth research focusing on emerging cybersecurity threats and best practices including social engineering, phishing, and cryptography.",
-        "Shadowed professionals in dynamic cybersecurity domains like penetration testing and incident response.",
+        "Spearheaded the development of educational materials for online cybersecurity awareness applications used across educational institutions, enhancing digital hygiene and safe internet practices.",
+        "Conducted research on emerging cybersecurity threats and best practices including social engineering, phishing, and cryptographic techniques.",
+        "Shadowed cybersecurity professionals in domains such as penetration testing, threat modeling, and incident response, gaining exposure to real-world security protocols and analysis.",
       ],
     },
     {
-      title: "Founder and Leader",
-      company_name: "Bridgewater-Raritan High School Hackathon",
-      icon: "https://cmsv2-assets.apptegy.net/uploads/25792/logo/28605/Lettermark2.png",
+      title: "Web Development Intern",
+      company_name: "Sreyash Enterprises",
+      icon: "https://ts2.mm.bing.net/th?id=OIP.I2yXfe4QFlscvpVWzFIXdwHaHa&pid=15.1",
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Oct 2023",
+      date: "June 2025 - July 2025",
       url: "",
       points: [
-        "Secured $6,000 in funding through grants and partnerships with Qualcomm, MLH, Women in STEM, Wolfram Alpha, Mathnasium, Code Ninjas, Eye Level, Gold’s Gym, and 20+ local businesses.",
-        "Organized a successful event with 200+ attendees and established an annual educational community event.",
-        "Led cross-functional teams in website dev, event & logistics, finance, partnerships, and social media marketing.",
-        "Directed 20+ workshops involving AI, engineering, neuroscience, DSA, and WiSTEM for youth empowerment.",
+        "Designed and developed a custom portfolio website for Sreyash Enterprises, showcasing industrial contracting services with a modern, responsive layout.",
+        "Implemented clean UI components using React and Tailwind CSS to highlight key offerings like fabrication, civil works, and plant maintenance.",
+        "Collaborated closely with the client to refine content structure and optimize for fast-loading performance across devices, ensuring seamless navigation and professional presentation.",
       ],
     },
-    {
-      title: "AI and Business Intern Lead",
-      company_name: "Jetson AI",
-      icon: "https://static.wixstatic.com/media/14885d_35c17b6084264a46b9951565fa1cedd7~mv2.png/v1/fill/w_330,h_330,al_c/14885d_35c17b6084264a46b9951565fa1cedd7~mv2.png",
-      iconBg: "#383E56",
-      date: "Mar 2023 - Aug 2023",
-      url: "",
-      points: [
-        "#1 Ranked Intern Spring and Summer Cohort, #1 Ranked Pitch Deck for Future Jetson Feature.",
-        "Collaborated with C-Level Executives on 30+ market research interviews to gain strategic insights.",
-        "Led the development of a Startup Mentor Python-based API powered by GPT-4, educational articles, and a wealth calculator enhancing financial literacy for 20,000+ daily users.",
-        "Enhanced app features, UI/UX, and product strategy, contributing to a 20% boost in brand visibility on social media, 5% increase in app retention rate, and 15% increase in customer satisfaction ratings.",
-      ],
-    },
+    // {
+    //   title: "AI and Business Intern Lead",
+    //   company_name: "Jetson AI",
+    //   icon: "https://static.wixstatic.com/media/14885d_35c17b6084264a46b9951565fa1cedd7~mv2.png/v1/fill/w_330,h_330,al_c/14885d_35c17b6084264a46b9951565fa1cedd7~mv2.png",
+    //   iconBg: "#383E56",
+    //   date: "Mar 2023 - Aug 2023",
+    //   url: "",
+    //   points: [
+    //     "#1 Ranked Intern Spring and Summer Cohort, #1 Ranked Pitch Deck for Future Jetson Feature.",
+    //     "Collaborated with C-Level Executives on 30+ market research interviews to gain strategic insights.",
+    //     "Led the development of a Startup Mentor Python-based API powered by GPT-4, educational articles, and a wealth calculator enhancing financial literacy for 20,000+ daily users.",
+    //     "Enhanced app features, UI/UX, and product strategy, contributing to a 20% boost in brand visibility on social media, 5% increase in app retention rate, and 15% increase in customer satisfaction ratings.",
+    //   ],
+    // },
   ];
   
   const testimonials = [
     {
       testimonial:
-        "Brings a vital energy and strong work ethic to the team",
-      name: "Will Rush",
-      designation: "Co-Founder & CEO",
-      company: "Jetson",
+        "He understood my business and delivered a clean, powerful site that makes my industrial expertise stand out.",
+      name: "Rohit Gude",
+      designation: "Owner",
+      company: "Sreyash Enterprise",
       image: "https://media.licdn.com/dms/image/v2/C5603AQE_9RwqXHYl4g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1644652007664?e=1733961600&v=beta&t=bpFe67bsoDILnctQe541Wk8B-tTdlM2R9xGFaLMBjNk",
     },
-    {
-      testimonial:
-        "Excellent and of highly professional caliber",
-      name: "Patricia Tamburelli",
-      designation: "Cyber Training Education Specialist",
-      company: "NJCCIC",
-      image: "https://cdn.buttercms.com/gLxDCAKCQ1enOUVzP1nQ",
-    },
-    {
-      testimonial:
-        "Founded NJ's biggest high school hackathon of 2023",
-      name: "Audrey Blumberg",
-      designation: "Editor in Chief",
-      company: "TAPINTO",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Q1UoJUyldSDysHgotIhiVBEH8FtiWXFfeA&s",
-    },
+    // {
+    //   testimonial:
+    //     "Excellent and of highly professional caliber",
+    //   name: "Patricia Tamburelli",
+    //   designation: "Cyber Training Education Specialist",
+    //   company: "NJCCIC",
+    //   image: "https://cdn.buttercms.com/gLxDCAKCQ1enOUVzP1nQ",
+    // },
+    // {
+    //   testimonial:
+    //     "Founded NJ's biggest high school hackathon of 2023",
+    //   name: "Audrey Blumberg",
+    //   designation: "Editor in Chief",
+    //   company: "TAPINTO",
+    //   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Q1UoJUyldSDysHgotIhiVBEH8FtiWXFfeA&s",
+    // },
   ];
   
   const projects = [
@@ -217,11 +216,11 @@ import { // Change the values of the balls in index.js in the constants folder a
           color: "pink-text-gradient",
         },
       ],
-      image: "https://tapinto-production.s3.amazonaws.com/uploads/events/cp/facebook_cp-brhacks.jpeg",
-      source_code_link: "https://2023-br-hacks-website.vercel.app/",
+      image: "https://i.imghippo.com/files/fSNo5020Ing.jpg",
+      source_code_link: "https://lethimresume.vercel.app/",
     },
     {
-      name: "ChainFund",
+      name: "ChainFund (working)",
       description:
         "A decentralized crowdfunding platform reshaped fundraising by combining React, Tailwind CSS, Solidity smart contracts, MetaMask, Ethereum, and PostgreSQL. With wallet-based authentication and transparent campaign logic, it empowered users to launch, track, and support initiatives without intermediaries. The intuitive UI, real-time transaction flow, and scalable backend demonstrated how trustless systems can revolutionize modern fundraising.",
       tags: [
@@ -239,10 +238,10 @@ import { // Change the values of the balls in index.js in the constants folder a
         },
       ],
       image: "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/872/201/datas/gallery.jpg",
-      source_code_link: "https://ethanw2457.github.io/Club-Hub/landing.html",
+      // source_code_link: "https://ethanw2457.github.io/Club-Hub/landing.html",
     },
     {
-      name: "VibeCall ",
+      name: "VibeCall",
       description:
         "VibeCall is a real-time video communication platform built with React and styled using Tailwind CSS, leveraging ZEGOCLOUD’s powerful API for seamless audio and video streaming. The project focuses on delivering low-latency, high-quality video calls through efficient state management, responsive UI design, and real-time event handling. It integrates WebRTC principles via ZEGOCLOUD, ensuring smooth media transmission, while emphasizing component-based architecture and performance optimization in a scalable React environment.",
       tags: [
@@ -256,11 +255,12 @@ import { // Change the values of the balls in index.js in the constants folder a
         },
         {
           name: "Tailwind",
+
           color: "pink-text-gradient",
         },
       ],
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSTgg6uhXQspTRjCrD-wZWas2JhHpQU5laA&s",
-      source_code_link: "https://github.com/ethanw2457/RisingTides",
+      image: "https://video-call-seven-kappa.vercel.app",
+      source_code_link: "https://video-call-seven-kappa.vercel.app",
     },
   ];
   
