@@ -220,7 +220,7 @@ import { // Change the values of the balls in index.js in the constants folder a
       source_code_link: "https://lethimresume.vercel.app/",
     },
     {
-      name: "ChainFund (working)",
+      name: "ChainFund (in working)",
       description:
         "A decentralized crowdfunding platform reshaped fundraising by combining React, Tailwind CSS, Solidity smart contracts, MetaMask, Ethereum, and PostgreSQL. With wallet-based authentication and transparent campaign logic, it empowered users to launch, track, and support initiatives without intermediaries. The intuitive UI, real-time transaction flow, and scalable backend demonstrated how trustless systems can revolutionize modern fundraising.",
       tags: [
